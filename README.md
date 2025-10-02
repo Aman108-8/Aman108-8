@@ -13,16 +13,20 @@
 - XML
 - Java Swing
 - Java AWT
+- React js
+- jsp
   
 **Backend:**
 - Java
 - JS
 - Kotlin
 - MultiThreading
+- j2ee
 
 ### 🗄️ Databases
 - MySQL
 - Oracle
+- postgreSQL
 
 ### dCourse Work
 - OOPS (Object-Oriented Programming)
